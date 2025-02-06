@@ -1,6 +1,6 @@
-# Breal
+# Bereal
 
-# Project 2 - *Breal*
+# Project 2 - *Bereal*
 
 Submitted by: **Kritika Pant**
 
